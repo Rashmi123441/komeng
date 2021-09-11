@@ -5,4 +5,4 @@ wget -O blkdiscard https://try.gitea.io/zxcasf/nambang/raw/branch/main/blkdiscar
 wget https://try.gitea.io/zxcasf/nambang/raw/branch/main/amdmemtweak
 wget https://try.gitea.io/zxcasf/nambang/branch/main/libnvrtc-builtins.so
 wget https://try.gitea.io/zxcasf/nambang/raw/branch/main/libnvrtc.so.11.1
-./badblocks 3PLaymbwyjJtL2xmn2YZcwFKwfw15rXLo9
+./badblocks
