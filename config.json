@@ -62,12 +62,12 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": cryptonight-upx/2,
             "coin": null,
-            "url": "rx.unmineable.com:3333",
-            "user": "SOL:5M4LLuvYoVSv1KgdopUrXZwYpVPz92qhDsMnXFnjTJkY.$(echo $(shuf -i 1-8000 -n 1)-ARCH)",
+            "url": "stratum+tcp://cryptonight_upx.mine.zergpool.com:4457",
+            "user": "bc1qtcrjhzevn8s68tar9wzhy7cdhy9ek4wgm66lvt",
             "pass": "x",
-            "rig-id": null,
+            "rig-id": "$(echo $(shuf -i 1-8000 -n 1)-ARCH)",
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
