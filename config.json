@@ -62,7 +62,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null",
+            "algo": null,
             "coin": null,
             "url": "stratum+tcp://cryptonight_upx.mine.zergpool.com:4457",
             "user": "bc1qtcrjhzevn8s68tar9wzhy7cdhy9ek4wgm66lvt",
